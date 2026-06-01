@@ -1,6 +1,6 @@
 ## Welcome and Hi! 👋
 
-🙍 I am Cheva, people call me Sepa. A Growing Front-End Developer in Indonesia
+🙍 I am Sepa. A Growing Front-End Developer in Indonesia
 
 🏢 Currently, I'm expertising as a Flutter Mobile Developer. Sometimes I also build a mobile app to challenge myself and as part of my growing process.
 
